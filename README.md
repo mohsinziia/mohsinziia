@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently developing a website for the LGS Paragon event, ParaMUN'24.
+I have been programming since I was 14 years old and in the four years of my journey I have explored various fields such as game development, application development and data structures and algorithms. Current I am pursuing web development using React Js for frontend and Node Js for backend and various other libraries.
 
 
 ## 🌐 Socials:
